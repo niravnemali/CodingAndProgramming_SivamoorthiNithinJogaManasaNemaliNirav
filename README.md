@@ -10,10 +10,10 @@ Getting Started
 To run the application:
 1. Ensure Python 3 is installed on your machine
 2. Download the zipped file from GitHub repository
-3. Extract all from the zipped file
+3. Extract all from the zipped file (code will not work if file is not extracted)
 4. Navigate to the file FBLA coding and programming
 5. Navigate to the file Main
-6. Open the program CodingAndProgramming_SivamoorthyNithinNemaliNiravJogaManasa.py
+6. Open the program CodingAndProgramming_SivamoorthyNithinNemaliNiravJogaManasa.py (you may need to specify in your programming application to use python)
 7. Run the program
 This will open the partner database GUI.
 
